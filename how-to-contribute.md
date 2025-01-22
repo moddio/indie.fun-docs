@@ -1,8 +1,8 @@
 
 # How to contribute
 
-First, we strongly recommend you to join our [Discord](https://discord.gg/XRe8T7K) server. This is where you can best communicate with other community members.
-We are always looking for more help from the community. PRs are always welcome.
+First, we strongly recommend you to join our [Discord](https://discord.gg/BmzugPxAPP) server. This is where you can best communicate with other community members.
+We are always looking for more help from the community.
 
 
 # Documentation Contribution

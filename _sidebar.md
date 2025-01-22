@@ -1,10 +1,20 @@
 <!-- docs/_sidebar.md -->
 
 <center>
-<a href="https://docs.modd.io">
-  <img src="https://www.modd.io/_next/static/media/logo.08e05f95.svg" alt="Moddio logo" style="margin-right: auto;">
-  Documentation
+<a href="https://indie.fun">
+  indie.fun
 </a>
 </center>
+
+- **Home**
+
+  - [What is indie.fun?](/)
+  - [How to contribute](how-to-contribute.md)
+
+- **Getting Started**
+
+  - [Launching on indie.fun](/intro/launch.md)
+  - [Game launch checklist](/intro/launchlist.md)
+  - [Cashing out Cryptocurrency](/intro/launch.md)
 
 <!-- markdownlint-disable-next-line MD041 -->
