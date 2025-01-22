@@ -40,7 +40,7 @@ How does launching on Indie.fun work
 
 Overall, Indie.fun acts as a bridge between indie devs, players, and speculators with risk willing capital—helping studios secure funding, connect with a broader community, and ultimately bring their game ideas to life.
 
-### GTM for your indie.fun game:
+### Go-to-market strategy for your indie.fun game:
 
 **What social media to use:**  
 In web3 gaming there are 3 common social media that everyone use. That is Twitter / X, Telegram, and Discord. For your game to successfully launch on, you must have a Twiter / X profile for it, will go in more detail on good tips later. 
@@ -50,6 +50,6 @@ Besides Twitter, you also need a platform where your community can interact with
 **How to kick start a social presence on Twitter**    
 Make an introduction post with some visual content that showcase what you built. A banner is good but a trailer is even better. Check out this [case study](https://x.com/memelandmayhem/status/1879568907285004739) 
 
-[Read here for more details on GTM](https://goodgamehunters.notion.site/Indie-Fun-Checklist-for-successful-launch-180983b6094880c48cd2ee287e159d82?pvs=4)  
+[Read here for more details on Go-to-market strategy](https://goodgamehunters.notion.site/Indie-Fun-Checklist-for-successful-launch-180983b6094880c48cd2ee287e159d82?pvs=4)  
 
 [**Web3 terminology handbook**](https://www.blocknative.com/glossary) 
