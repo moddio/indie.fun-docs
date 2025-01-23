@@ -14,7 +14,7 @@
 - **Getting Started**
 
   - [Launching on indie.fun](/intro/launch.md)
-  - [Game launch checklist](/intro/launchlist.md)
+  <!-- - [Game launch checklist](/intro/launchlist.md) -->
   - [Cashing out Cryptocurrency](/intro/cashout.md)
 
 <!-- markdownlint-disable-next-line MD041 -->
