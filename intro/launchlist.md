@@ -6,10 +6,6 @@ Below is a detailed checklist, organized by stages, to help ensure a smooth and 
 
 ## **Before Applying**
 
-- **Playable Browser project**  
-  - Ensure your project runs smoothly in a browser environment.  
-  - Test on multiple browsers (Chrome, Firefox, etc.) for compatibility.  
-
 - **File Size Requirement**  
   - Keep the compiled project under **200MB** to meet hosting guidelines.  
 
