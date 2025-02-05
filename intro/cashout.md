@@ -1,6 +1,6 @@
 ## **Cashing Out Cryptocurrency:** 
 
-When you’ve earned crypto (e.g., from in-game transactions or NFT sales), you may want to convert it into your local currency (USD, EUR, etc.). The platforms that allow you to do this are often called **off-ramps**. Here’s how it works and some popular services to consider.
+When you’ve earned crypto (e.g., from in-project transactions or NFT sales), you may want to convert it into your local currency (USD, EUR, etc.). The platforms that allow you to do this are often called **off-ramps**. Here’s how it works and some popular services to consider.
 
 ### **What Is an Off-Ramp?**
 
@@ -95,4 +95,4 @@ An off-ramp is any service that lets you convert cryptocurrency back into tradit
 
 ---
 
-By understanding and using these off-ramp services, web2 game developers can effortlessly convert their crypto earnings into real-world currency, bridging the gap between web3’s new revenue streams and your bank account.
+By understanding and using these off-ramp services, web2 project developers can effortlessly convert their crypto earnings into real-world currency, bridging the gap between web3’s new revenue streams and your bank account.

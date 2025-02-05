@@ -6,26 +6,26 @@ Below is a detailed checklist, organized by stages, to help ensure a smooth and 
 
 ## **Before Applying**
 
-- **Playable Browser Game**  
-  - Ensure your game runs smoothly in a browser environment.  
+- **Playable Browser project**  
+  - Ensure your project runs smoothly in a browser environment.  
   - Test on multiple browsers (Chrome, Firefox, etc.) for compatibility.  
 
 - **File Size Requirement**  
-  - Keep the compiled game under **200MB** to meet hosting guidelines.  
+  - Keep the compiled project under **200MB** to meet hosting guidelines.  
 
 - **Engine & Integration**  
   - Build on **modd.io** or confirm your engine can be **ported** into Indie.fun.  
-  - Verify that critical game features (multiplayer, saves, etc.) work with your chosen engine.  
+  - Verify that critical project features (multiplayer, saves, etc.) work with your chosen engine.  
 
 - **Token Utility Plan**  
-  - Outline how in-game tokens will be used (e.g., purchasing power-ups, cosmetics, unlocking levels).  
+  - Outline how in-project tokens will be used (e.g., purchasing power-ups, cosmetics, unlocking levels).  
 
 - **Fair Launch Commitment**  
   - Be willing to do a **fair launch** on Indie.fun on **Solana**.  
   - Understand the basics of how your token sale will function (pricing, vesting, etc.).  
 
 - **Social Media Setup**  
-  - Create a **Twitter (X)** account for your game.  
+  - Create a **Twitter (X)** account for your project.  
   - Start posting teasers or development snippets to build early awareness.  
 
 - **Basic QA & Stability**  
@@ -47,8 +47,8 @@ Below is a detailed checklist, organized by stages, to help ensure a smooth and 
   - Finalize your **go-to-market** (GTM) strategy, marketing calendar, and **public roadmap** with Indie.fun.  
   - Gather promotional assets or partners for collaborations.  
 
-- **Prepare Game Trailer**  
-  - Create a short, high-impact video showcasing key gameplay elements.  
+- **Prepare project Trailer**  
+  - Create a short, high-impact video showcasing key projectplay elements.  
   - Keep it under **60-90 seconds** for maximum shareability.  
 
 - **Telegram & Community Channels**  
@@ -57,7 +57,7 @@ Below is a detailed checklist, organized by stages, to help ensure a smooth and 
 
 - **Social Media Content Planning**  
   - Outline at least **5 tweets** for **launch day** plus another set for the next 48 hours.  
-  - Use GIFs or short gameplay clips to capture attention.  
+  - Use GIFs or short projectplay clips to capture attention.  
 
 - **Roadmap Creation**  
   - Develop a **clear roadmap** showing post-launch milestones (new features, multiplayer, events, etc.).  
@@ -65,7 +65,7 @@ Below is a detailed checklist, organized by stages, to help ensure a smooth and 
 
 - **Collaborations & Cross-Promotion**  
   - Reach out to **Web3 gaming communities** or indie dev groups for collaborations or AMA sessions.  
-  - Offer early testers or community members a chance to try the game.  
+  - Offer early testers or community members a chance to try the project.  
 
 - **Prepare Core Marketing Materials**  
   - Create **banners**, profile images, and “Play on Indie.fun” badges.  
