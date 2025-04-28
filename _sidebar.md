@@ -13,7 +13,6 @@
 
 - **Getting Started**
 
-  - [Launching on indie.fun](/intro/launch.md)
   <!-- - [project launch checklist](/intro/launchlist.md) -->
   - [Cashing out Cryptocurrency](/intro/cashout.md)
 
