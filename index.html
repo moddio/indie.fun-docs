@@ -4,13 +4,15 @@
 <head>
   <meta charset="UTF-8">
   <!-- title here is overwritten by docsify-->
-  <title>Documentation</title>
+  <title>indie.fun Documentation</title>
   <link rel="modd icon" href="img/favicon.ico">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
+  <meta name="description" content="indie.fun - Official Documentation">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="/assets/dark.css">
-
+  <!-- Replace dark.css with our custom CSS -->
+  <link rel="stylesheet" href="/assets/custom.css">
+  <!-- Base theme - using dark theme that matches indie.fun site color scheme -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
 </head>
 
 <body>
@@ -39,6 +41,7 @@
         the image no matter what screen or device it is being viewed on, maintaining proporptions and
         not distorting it. */
       width: 60%;
+      max-width: 800px;
       /* You may optionally force a fixed size, or intentionally skew/distort an image by also
         setting the height. Values for `width` and `height` are commonly set in either percent (%)
         or pixels (px). Ex: `width:100%;` or `height:600px;`. */
@@ -47,7 +50,20 @@
       /* sloont testing
          *
         */
-      border-radius: 0.25rem;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+    
+    /* Make logo in sidebar smaller */
+    .sidebar a img {
+      max-width: 150px;
+    }
+    
+    /* Style the app name in sidebar */
+    .app-name {
+      display: none;
     }
   </style>
   <div id="app"></div>
@@ -87,6 +103,13 @@
         cssClass: 'docsify-edit-link m-0'
       },
       ga: 'G-3250YMYMF5',
+      // Add nice pagination
+      pagination: {
+        previousText: 'Previous',
+        nextText: 'Next',
+        crossChapter: true,
+        crossChapterText: true,
+      }
     }
   </script>
 
@@ -102,6 +125,7 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify-plugin-ga"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/axios@1.1.2/dist/axios.min.js"></script>
 </body>
 

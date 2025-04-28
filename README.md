@@ -19,4 +19,4 @@ To run our doc locally, clone [our repo](https://github.com/moddio/indie.fun-doc
 docsify serve
 ```
 
-The changes will reflect immediately after saving the files. There is no need to restart the docsify server. 
+The changes will reflect immediately after saving the files. There is no need to restart the docsify server.

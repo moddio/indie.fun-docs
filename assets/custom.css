@@ -1,0 +1,213 @@
+/* Custom CSS for indie.fun docs to match the website's look and feel */
+
+:root {
+  --theme-color: #39b4ff;
+  --theme-color-dark: #2980b9;
+  --text-color-base: #f0f0f0;
+  --text-color-secondary: #b3b3b3;
+  --text-color-tertiary: #797979;
+  --border-color: #303030;
+  
+  --background-color: #171923;
+  --sidebar-background: #0f1117;
+  --sidebar-nav-link-color: #f0f0f0;
+  --sidebar-nav-link-color--active: #39b4ff;
+  --sidebar-nav-link-font-weight--active: 600;
+  
+  --code-font-family: "Roboto Mono", Monaco, courier, monospace;
+  --base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  --base-font-size: 16px;
+  --base-line-height: 1.6;
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color-base);
+  font-family: var(--base-font-family);
+}
+
+/* Sidebar styling */
+.sidebar {
+  background-color: var(--sidebar-background);
+  color: var(--text-color-base);
+  border-right: 1px solid var(--border-color);
+}
+.sidebar-nav a img:first-child, .sidebar nav a img:first-child {
+  margin-right: 0 !important;
+}
+.sidebar-toggle {
+  background-color: rgba(15, 17, 23, 0.8);
+}
+
+.sidebar ul li a {
+  color: var(--sidebar-nav-link-color);
+  font-size: 14px;
+}
+
+.sidebar ul li.active > a {
+  color: var(--sidebar-nav-link-color--active);
+  font-weight: var(--sidebar-nav-link-font-weight--active);
+  border-right: 2px solid var(--theme-color);
+}
+
+/* Logo styling */
+.sidebar img[alt="indie.fun"] {
+  margin: 20px auto;
+  border-radius: 0;
+  box-shadow: none;
+  max-width: 160px;
+  width: auto;
+}
+
+/* Content area styling */
+.content {
+  padding-top: 20px;
+}
+
+/* Link styling */
+.markdown-section a {
+  color: var(--theme-color);
+  text-decoration: none;
+}
+
+.markdown-section a:hover {
+  text-decoration: underline;
+}
+
+/* Button styling */
+.markdown-section button {
+  background-color: var(--theme-color);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+/* Image styling */
+.markdown-section img {
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Heading styling */
+.markdown-section h1,
+.markdown-section h2,
+.markdown-section h3,
+.markdown-section h4,
+.markdown-section h5,
+.markdown-section h6 {
+  color: var(--text-color-base);
+  font-weight: 600;
+  margin-top: 1.5em;
+}
+
+.markdown-section h1 {
+  font-size: 2.2em;
+  margin-top: 0;
+}
+
+.markdown-section h2 {
+  font-size: 1.8em;
+}
+
+.markdown-section h3 {
+  font-size: 1.5em;
+}
+
+/* Code styling */
+.markdown-section code {
+  border-radius: 3px;
+  font-family: var(--code-font-family);
+  font-size: 0.85em;
+  margin: 0 2px;
+  padding: 3px 6px;
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.markdown-section pre {
+  background-color: #1a1e2a;
+  border-radius: 8px;
+}
+
+.markdown-section pre > code {
+  background-color: transparent;
+  padding: 1em;
+}
+
+/* Table styling */
+.markdown-section table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  display: block;
+  margin-bottom: 1em;
+  overflow: auto;
+  width: 100%;
+}
+
+.markdown-section th {
+  font-weight: 600;
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.markdown-section td,
+.markdown-section th {
+  border: 1px solid var(--border-color);
+  padding: 6px 13px;
+}
+
+/* Blockquote styling */
+.markdown-section blockquote {
+  border-left: 4px solid var(--theme-color);
+  color: var(--text-color-secondary);
+  margin: 2em 0;
+  padding-left: 20px;
+}
+
+/* Horizontal rule styling */
+.markdown-section hr {
+  border: none;
+  border-bottom: 1px solid var(--border-color);
+  margin: 2em 0;
+}
+
+/* Custom components */
+.indie-button {
+  display: inline-block;
+  background-color: var(--theme-color);
+  color: white;
+  padding: 8px 16px;
+  border-radius: 4px;
+  text-decoration: none;
+  margin: 10px 0;
+}
+
+.indie-button:hover {
+  opacity: 0.9;
+  text-decoration: none !important;
+}
+
+/* Cover page styling */
+section.cover {
+  background: var(--background-color) !important;
+}
+
+section.cover .cover-main {
+  color: var(--text-color-base);
+}
+
+/* Custom divider styling to match the site */
+.markdown-section hr {
+  height: 1px;
+  background: linear-gradient(90deg, rgba(57, 180, 255, 0), rgba(57, 180, 255, 0.5) 50%, rgba(57, 180, 255, 0));
+  margin: 30px 0;
+}
+
+/* Navigation arrows */
+.markdown-section .docsify-pagination-container {
+  border-top-color: var(--border-color);
+}
+
+.markdown-section .pagination-item-title {
+  color: var(--theme-color);
+} 

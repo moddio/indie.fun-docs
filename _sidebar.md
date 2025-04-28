@@ -1,19 +1,15 @@
 <!-- docs/_sidebar.md -->
 
-<center>
-<a href="https://indie.fun">
-  indie.fun
-</a>
-</center>
+  <img src="https://indie.fun/indiefun.png" alt="indie.fun" width="100%" href="https://indie.fun">
 
 - **Home**
 
   - [What is indie.fun?](/)
-  - [How to contribute](how-to-contribute.md)
-
-- **Getting Started**
+  - [How It Works](how-it-works.md)
+  - [Token Creation & Fundraising](token-creation.md)
 
   <!-- - [project launch checklist](/intro/launchlist.md) -->
   - [Cashing out Cryptocurrency](/intro/cashout.md)
+  - [How to contribute to Docs](how-to-contribute.md)
 
 <!-- markdownlint-disable-next-line MD041 -->
