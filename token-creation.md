@@ -29,8 +29,6 @@ If you already have a token on Solana that you want to use for your project, you
 
 Once integrated, your existing token will be available for trading on the platform immediately, without needing to go through the fundraising process.
 
-**Note**: You must have ownership or appropriate permissions for the token you're integrating.
-
 ---
 
 ## Creating a New Token
