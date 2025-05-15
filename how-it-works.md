@@ -43,7 +43,6 @@ The edit interface contains seven tabs for comprehensive project management:
 - For new tokens, set up fundraising parameters and token distribution
 - For existing tokens, your project will immediately show a trading interface
 - Sign contract and pay fees (0.02 SOL platform fee + Solana account fees)
-
 - [Learn more about token creation and fundraising →](token-creation.md)
 
 ### Whitelist Management

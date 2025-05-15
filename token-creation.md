@@ -50,14 +50,6 @@ You'll first need to select the token standard for your new token:
 
 Set the amount of SOL you want to raise for your project. For example, if you set a funding goal of 100 SOL:
 
-#### Creator SOL Allocation
-
-Use the slider to determine how the raised SOL will be distributed upon successful fundraising:
-
-- **You Receive**: The percentage of the fundraised amount you'll receive directly (e.g., 57% = 57 SOL from 100 SOL)
-- **Liquidity Pool**: The portion that will be used to create a trading pool for your token (e.g., 33% = 33 SOL from 100 SOL)
-- **Platform Fee**: Fixed at 10% of the total raised (10 SOL from 100 SOL)
-
 #### Creator Token Allocation
 
 Configure how your project's tokens will be distributed:
@@ -68,15 +60,23 @@ Configure how your project's tokens will be distributed:
 
 The system will automatically calculate and display the token distribution based on your settings, showing both percentages and actual token amounts.
 
+#### Creator SOL Allocation
+
+Use the slider to determine how the raised SOL will be distributed upon successful fundraising:
+
+- **You Receive**: The percentage of the fundraised amount you'll receive directly (e.g., 57% = 57 SOL from 100 SOL)
+- **Liquidity Pool**: The portion that will be used to create a trading pool for your token (e.g., 33% = 33 SOL from 100 SOL)
+- **Platform Fee**: Fixed at 10% of the total raised (10 SOL from 100 SOL)
+
 #### Price Volatility Indicator
 
 The system will analyze your settings and show potential price volatility metrics:
 
-- Token dump impact
-- Buying pressure analysis
-- Recommendations for optimal settings
+- Token dump impact: Estimates the effect on price if 1% of your token supply (e.g., 10M tokens) were sold at once
+- Buying pressure analysis: Shows the projected price change from purchasing 1 SOL worth of tokens
+- Volatility Score: Provides a summary of how volatile your token's price may be based on current settings
 
-This helps you create a healthy token economy with sustainable pricing.
+These insights are informational only and intended to help you assess the volatility of your token distribution and trading setup.
 
 ---
 
@@ -149,7 +149,7 @@ Choose how your token's liquidity will be managed:
 - **Burn & Earn** - Liquidity will be permanently locked, but you as the creator can earn trading fees
 - **Burn Liquidity** - Liquidity will be permanently locked, and you will not earn trading fees
 
-With the Burn & Earn option, the liquidity provided to create the trading pool cannot be withdrawn, ensuring sustainable trading for your token, while still allowing you to benefit from trading activity.
+With the Burn & Earn option, the liquidity provided to create the trading pool cannot be withdrawn. This ensures continuedtrading for your token, while still allowing you to earn from trading activity.
 
 #### Trade Fee Tier
 
@@ -163,6 +163,22 @@ Select the percentage fee that will be charged on each trade of your token:
 Higher fee tiers provide more revenue to the creator but may reduce trading volume, while lower fees typically encourage more trading activity but with less revenue per trade.
 
 These settings cannot be changed after token creation, so choose carefully based on your project's goals and tokenomics strategy.
+
+#### Trading Fee Distribution
+
+If you select the **Burn & Earn** option, you will earn a portion of trading fees. The distribution is as follows:
+
+- **16%** goes to Raydium (buyback and treasury)
+- The remaining **84%** is split between you and indie.fun:
+  - **90%** to you (the creator)
+  - **10%** to indie.fun
+
+> For example, if you choose a 2% trade fee:  
+> - 0.32% goes to Raydium  
+> - 1.51% to the creator  
+> - 0.17% to indie.fun
+
+This setup allows you to earn a portion of trading fees while ensuring long-term liquidity support on the Raydium platform.
 
 ---
 
