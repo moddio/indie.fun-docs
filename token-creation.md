@@ -164,20 +164,6 @@ Higher fee tiers provide more revenue to the creator but may reduce trading volu
 
 These settings cannot be changed after token creation, so choose carefully based on your project's goals and tokenomics strategy.
 
-#### Trading Fee Distribution
-
-If you select the **Burn & Earn** option, you will earn a portion of trading fees. The distribution is as follows:
-
-- **16%** goes to Raydium (buyback and treasury)
-- The remaining **84%** is split between you and indie.fun:
-  - **90%** to you (the creator)
-  - **10%** to indie.fun
-
-> For example, if you choose a 2% trade fee:  
-> - 0.32% goes to Raydium  
-> - 1.51% to the creator  
-> - 0.17% to indie.fun
-
 This setup allows you to earn a portion of trading fees while ensuring long-term liquidity support on the Raydium platform.
 
 ---
