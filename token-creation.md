@@ -168,10 +168,10 @@ This setup allows you to earn a portion of trading fees while ensuring long-term
 
 The distribution of fees are the following:
 
-- **20%** of the fee goes to **Meteora** (for liquidity infrastructure)
-- The remaining **80%** is split equally:
-  - **40% to you (the creator)**
-  - **40% to indie.fun**
+- 20% of the fee goes to Meteora
+- The remaining 80% is split equally:
+  - 40% to you (the creator)
+  - 40% to indie.fun
 
 > For example, if you choose a 2% trade fee:
 > - 0.40% goes to Meteora  
