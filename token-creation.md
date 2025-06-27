@@ -4,10 +4,7 @@ This guide explains how to create and launch a token for your project on Indie.f
 
 ## Token Integration
 
-The first step is to select your token integration method. You have two options:
-
-1. **Create a new token** - Start a fundraising campaign with a newly created token
-2. **Select an existing token** - Use a token you've already created elsewhere
+The first step is to select your token integration method. You can **create a new token** by starting a fundraising campaign with a newly created token
 
 ![Token Integration Options](assets/token-integration.png)
 
