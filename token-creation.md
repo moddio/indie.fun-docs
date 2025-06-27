@@ -1,4 +1,4 @@
-# Token Creation & Fundraising
+o# Token Creation & Fundraising
 
 This guide explains how to create and launch a token for your project on Indie.fun.
 
@@ -143,7 +143,7 @@ Higher fee tiers provide more revenue to the creator but may reduce trading volu
 
 These settings cannot be changed after token creation, so choose carefully based on your project's goals and tokenomics strategy.
 
-This setup allows you to earn a portion of trading fees while ensuring long-term liquidity support on the Raydium platform.
+This setup allows you to earn a portion of trading fees while ensuring long-term liquidity support on the Meteora platform.
 
 The distribution of fees are the following:
 
