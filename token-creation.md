@@ -13,24 +13,6 @@ The first step is to select your token integration method. You have two options:
 
 ---
 
-## Using an Existing Token
-
-If you already have a token on Solana that you want to use for your project, you can integrate it directly without going through the token creation process.
-
-![Existing Token Integration](assets/exisiting-token-integration.png)
-
-### Steps to Integrate an Existing Token
-
-1. Select "Select an existing Token" from the dropdown menu
-2. Enter your token's contract address in the field provided
-3. Click "Verify Token" to validate the token exists and you have the necessary permissions
-4. Review the submission fee notice (0.02 SOL non-refundable fee)
-5. Click "Integrate Token" to add the token to your project
-
-Once integrated, your existing token will be available for trading on the platform immediately, without needing to go through the fundraising process.
-
----
-
 ## Creating a New Token
 
 If you choose to create a new token, the process is divided into four main parts. Let's walk through them:
