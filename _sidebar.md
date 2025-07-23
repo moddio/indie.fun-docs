@@ -7,6 +7,7 @@
   - [What is indie.fun?](/)
   - [How It Works](how-it-works.md)
   - [Token Creation & Fundraising](token-creation.md)
+  - [Verification Badget](verification.md)
   - [Other Services](other-services.md)
 
   <!-- - [project launch checklist](/intro/launchlist.md) -->
