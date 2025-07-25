@@ -31,4 +31,4 @@ A token is a digital currency that powers the in-project economy. Think of it li
 You can <a href="https://indie.fun/create">Submit a Project</a> and launch your own token at any time.
 
 ## How to get your project verified:
-DM <a href="https://twitter.com/indiedotfun/">@indiedotfun</a> on Twitter
+DM <a href="https://twitter.com/indiedotfun/">@indiedotfun</a> on Twitter. Learn more about verification [here](verification.md).

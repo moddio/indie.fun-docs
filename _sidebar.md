@@ -8,6 +8,7 @@
   - [How It Works](how-it-works.md)
   - [Token Creation & Fundraising](token-creation.md)
   - [Verification Badge](verification.md)
+  - [Marketing Boost](marketing-boost.md)
   - [Other Services](other-services.md)
 
   <!-- - [project launch checklist](/intro/launchlist.md) -->
