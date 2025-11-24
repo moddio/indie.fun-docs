@@ -7,6 +7,7 @@
   - [What is indie.fun?](/)
   - [How It Works](how-it-works.md)
   - [Token Creation & Fundraising](token-creation.md)
+  - [Oversubscribed Fundraises](oversubscription.md)
   - [Verification Badge](verification.md)
   - [Marketing Boost](marketing-boost.md)
   - [Other Services](other-services.md)
