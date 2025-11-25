@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-  <img src="https://indie.fun/indiefun.png" alt="indie.fun" width="100%" href="https://indie.fun">
+  <img src="assets/indiefun-logo.png" alt="indie.fun" width="100%" href="https://indie.fun">
 
 - **Home**
 
